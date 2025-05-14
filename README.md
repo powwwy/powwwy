@@ -24,7 +24,8 @@ I'm a Full-stack Developer with a passion for building seamless web experiences.
 🤖 CLI Tools – ⚠️UNDER CONSTRUCTION⚠️ <hr>
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=powwwy&show_icons=true&theme=radical&hide_title=true&hide_border=true" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com?user=powwwy&theme=radical&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=powwwy&show_icons=true&theme=radical&hide_title=true&hide_border=true" /> <br> <img src="https://streak-stats.demolab.com?user=powwwy&theme=radical&hide_border=true" />
+ </p>
 <hr>
 🛠️ Tech Stack
 <p align="center"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" /> <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" /> <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss" /> <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" /> </p>
