@@ -16,12 +16,13 @@ const mikah = {
   learning: ["TypeScript", "AI Dev Tools", "System Design"],
   hobbies: ["building side projects", "reading tech blogs", "optimizing workflows"],
 }
+
 🚀 Projects
-🧰 Project Hub – Central place for reusable components & mini-apps.
+🧰 Project Hub – Central place for reusable components & mini-apps. <hr> ⚠️UNDER CONSTRUCTION⚠️
 
-🌐 Dev Portfolio – A nerdy showcase of what I’ve built and learned.
+🌐 Dev Portfolio – A nerdy showcase of what I’ve built and learned. <hr> ⚠️UNDER CONSTRUCTION⚠️
 
-🤖 CLI Tools – Small command-line tools to automate everyday dev tasks.
+🤖 CLI Tools – ⚠️UNDER CONSTRUCTION⚠️
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true&hide_border=true" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true" /> </p>
