@@ -9,7 +9,6 @@
 
 ### 🧠 About Me
 
-```ts
 const mikah = {
   role: "Full-stack Developer",
   focus: ["Web Development", "Creative Code", "Clean UI/UX"],
@@ -30,4 +29,4 @@ const mikah = {
 <p align="center"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" /> <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" /> <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss" /> <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" /> </p>
 📫 Connect with Me
 <p align="center"> <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" /></a> <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin" /></a> <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> </p>
-<p align="center"> <em>“Code. Coffee. Curiosity.” ☕</em> </p> ```
+<p align="center"> <em>“Code. Coffee. Curiosity.” ☕</em> </p> 
