@@ -7,7 +7,7 @@
 
 ---
 
-🧠  About Me
+🧠  About Me <hr>
 I'm a Full-stack Developer with a passion for building seamless web experiences. My main focus areas are web development, creative coding, and clean, user-friendly UI/UX design.
 
 🔧 I work with tools like React, Node.js, Python, TailwindCSS, Git, and Figma.
