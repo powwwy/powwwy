@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e0e52,100:2e2e9e&height=120&section=header&text=Hi%20there,%20I'm%20Mikah%20👨‍💻&fontSize=30&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e0e52,100:2e2e9e&height=120&section=header&text=Hi%20there,%20I'm%20Maxwell%20👨‍💻&fontSize=30&fontColor=ffffff" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2ED2FF&center=true&vCenter=true&lines=Full-stack+Developer;Tech+Tinkerer;Lifelong+Learner" />
