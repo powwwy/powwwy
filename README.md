@@ -7,15 +7,14 @@
 
 ---
 
-### 🧠 About Me
+🧠  About Me
+I'm a Full-stack Developer with a passion for building seamless web experiences. My main focus areas are web development, creative coding, and clean, user-friendly UI/UX design.
 
-const mikah = {
-  role: "Full-stack Developer",
-  focus: ["Web Development", "Creative Code", "Clean UI/UX"],
-  tools: ["React", "Node.js", "Python", "TailwindCSS", "Git", "Figma"],
-  learning: ["TypeScript", "AI Dev Tools", "System Design"],
-  hobbies: ["building side projects", "reading tech blogs", "optimizing workflows"],
-}
+🔧 I work with tools like React, Node.js, Python, TailwindCSS, Git, and Figma.
+
+🚀 Currently learning TypeScript, diving into AI development tools, and sharpening my system design knowledge.
+
+🛠️ I love building side projects, reading tech blogs, and constantly optimizing how I work.
 
 🚀 Projects
 🧰 Project Hub – Central place for reusable components & mini-apps. <hr> ⚠️UNDER CONSTRUCTION⚠️
