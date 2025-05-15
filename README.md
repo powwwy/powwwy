@@ -16,12 +16,13 @@ I'm a Full-stack Developer with a passion for building seamless web experiences.
 
 🛠️ I love building side projects, reading tech blogs, and constantly optimizing how I work.
 
+<hr>
 🚀 Projects
-🧰 Project Hub – Central place for reusable components & mini-apps. <hr> ⚠️UNDER CONSTRUCTION⚠️
-
-🌐 Dev Portfolio – A nerdy showcase of what I’ve built and learned. <hr> ⚠️UNDER CONSTRUCTION⚠️
-
-🤖 CLI Tools – ⚠️UNDER CONSTRUCTION⚠️ <hr>
+🧰 Project Hub – Central place for reusable components & mini-apps.  ⚠️UNDER CONSTRUCTION⚠️
+ <hr>
+🌐 Dev Portfolio – A nerdy showcase of what I’ve built and learned. ⚠️UNDER CONSTRUCTION⚠️
+ <hr>
+🤖 CLI Tools – ⚠️UNDER CONSTRUCTION⚠️
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=powwwy&show_icons=true&theme=radical&hide_title=true&hide_border=true" /> <br> <img src="https://streak-stats.demolab.com?user=powwwy&theme=radical&hide_border=true" />
